@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Татьяна Смирнова](https://up.htmlacademy.ru/ecmascript/16/user/852387).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Лепёшкин](https://up.htmlacademy.ru/profession/fullstack/1/javascript/user/144641).
 
 ---
 
